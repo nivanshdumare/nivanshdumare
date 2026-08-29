@@ -167,11 +167,11 @@ Online pharmacy and healthcare marketplace rebuild.
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/Nandudumare?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=5274ff" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Nandudumare?style=for-the-badge&logo=github&label=Total%20stars&labelColor=0d1117&color=5274ff" alt="Total stars" />
+<img src="https://img.shields.io/github/followers/nivanshdumare?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=5274ff" alt="Followers" />
+<img src="https://img.shields.io/github/stars/nivanshdumare?style=for-the-badge&logo=github&label=Total%20stars&labelColor=0d1117&color=5274ff" alt="Total stars" />
 <img src="https://img.shields.io/badge/Public_repos-24-5274ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Public repos" />
 
-<img src="https://streak-stats.demolab.com?user=nandudumare&theme=dark&hide_border=true&background=0d1117&ring=5274ff&fire=5274ff&currStreakLabel=ffffff" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=nivanshdumare&theme=dark&hide_border=true&background=0d1117&ring=5274ff&fire=5274ff&currStreakLabel=ffffff" alt="GitHub streak" />
 
 </div>
 
