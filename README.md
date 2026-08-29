@@ -11,7 +11,7 @@ I build enterprise dashboards that stay fast when the data gets ugly.
 <a href="mailto:dumarenandu70@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://drive.google.com/file/d/17GIm6xYqaa-iQZsBO2N-Rotmahn9LdkY/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-2F2F2F?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 <img src="https://img.shields.io/badge/Nagpur,_IN-1a7f37?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://komarev.com/ghpvc/?username=nandudumare&label=Views&color=5274ff&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=nivanshdumare&label=Views&color=5274ff&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -21,7 +21,7 @@ I build enterprise dashboards that stay fast when the data gets ugly.
 
 |  |  |
 |---|---|
-| **Role** | SDE-1 at [Mutant(X)](https://github.com/Nandudumare) — design & development R&D collective |
+| **Role** | SDE-1 at Mutant(X) — design & development R&D collective |
 | **Doing** | End-to-end frontend for enterprise, data-driven products |
 | **Lead stack** | Vue.js · React.js · Next.js · TypeScript · Tailwind CSS |
 | **Also in** | Node.js / Express REST APIs, Puppeteer automation, PDF generation |
@@ -122,7 +122,7 @@ Enterprise products built at Mutant(X). Closed source, so no repo links — happ
 <tr>
 <td width="50%" valign="top">
 
-**[MERN Chat App](https://github.com/Nandudumare/MERN-CHAT-APP)**
+**[MERN Chat App](https://github.com/nivanshdumare/MERN-CHAT-APP)**
 
 Real-time chat over Socket.io, with encrypted user records in MongoDB.
 
@@ -131,7 +131,7 @@ Real-time chat over Socket.io, with encrypted user records in MongoDB.
 </td>
 <td width="50%" valign="top">
 
-**[Todo App — MERN](https://github.com/Nandudumare/Todo-App-Mern-Stack)**
+**[Todo App — MERN](https://github.com/nivanshdumare/Todo-App-Mern-Stack)**
 
 Task tracker built to surface where time actually goes, and how productive it is.
 
@@ -142,7 +142,7 @@ Task tracker built to surface where time actually goes, and how productive it is
 <tr>
 <td width="50%" valign="top">
 
-**[Nordstrom Rack Clone](https://github.com/Nandudumare/Nordstromrack-Website-Clone)**
+**[Nordstrom Rack Clone](https://github.com/nivanshdumare/Nordstromrack-Website-Clone)**
 
 Full storefront rebuild of the off-price retail chain.
 
@@ -151,7 +151,7 @@ Full storefront rebuild of the off-price retail chain.
 </td>
 <td width="50%" valign="top">
 
-**[PharmEasy Clone](https://github.com/Nandudumare/PharmEasy-Clone)**
+**[PharmEasy Clone](https://github.com/nivanshdumare/PharmEasy-Clone)**
 
 Online pharmacy and healthcare marketplace rebuild.
 
@@ -165,15 +165,13 @@ Online pharmacy and healthcare marketplace rebuild.
 
 ## By the numbers
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/github/followers/nivanshdumare?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=5274ff" alt="Followers" /> <img src="https://img.shields.io/github/stars/nivanshdumare?style=for-the-badge&logo=github&label=Total%20stars&labelColor=0d1117&color=5274ff" alt="Total stars" /> <img src="https://img.shields.io/badge/Public_repos-24-5274ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Public repos" />
+</p>
 
-<img src="https://img.shields.io/github/followers/nivanshdumare?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=5274ff" alt="Followers" />
-<img src="https://img.shields.io/github/stars/nivanshdumare?style=for-the-badge&logo=github&label=Total%20stars&labelColor=0d1117&color=5274ff" alt="Total stars" />
-<img src="https://img.shields.io/badge/Public_repos-24-5274ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Public repos" />
-
-<img src="https://streak-stats.demolab.com?user=nivanshdumare&theme=dark&hide_border=true&background=0d1117&ring=5274ff&fire=5274ff&currStreakLabel=ffffff" alt="GitHub streak" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=nivanshdumare&theme=dark&hide_border=true&background=0d1117&ring=5274ff&fire=5274ff&currStreakLabel=ffffff" alt="GitHub streak" />
+</p>
 
 ---
 
