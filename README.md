@@ -9,7 +9,7 @@ I build enterprise dashboards that stay fast when the data gets ugly.
 
 <a href="https://www.linkedin.com/in/nivansh-dumare-a11981233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:dumarenandu70@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://drive.google.com/file/d/1OiQWppzUaaFMa2JMZSXFVgvQA5y3Qp60/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-2F2F2F?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+<a href="https://drive.google.com/file/d/17GIm6xYqaa-iQZsBO2N-Rotmahn9LdkY/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-2F2F2F?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 <img src="https://img.shields.io/badge/Nagpur,_IN-1a7f37?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 <img src="https://komarev.com/ghpvc/?username=nandudumare&label=Views&color=5274ff&style=flat-square" alt="Profile views" />
 
